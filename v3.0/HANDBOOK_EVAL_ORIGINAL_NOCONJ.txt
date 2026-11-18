@@ -1,0 +1,27 @@
+Identify the drowning detection or response system that the publication assesses. Map the
+specific task and evidence to each pillar separately before assigning a numerical score.
+If a system-dependent criterion cannot attach to an assessed system/task, return
+`applicability_uncertain` with a null score for that pillar and explain the mismatch. A paper
+about incident analysis or observer training must not be assumed to evaluate a detector merely
+because its underlying events or footage are authentic. Do not treat scope mismatch as absent
+evidence and do not convert it to zero. Preserve other pillars that can be assessed, including
+applicable governance evidence, rather than excluding the whole paper. An incomplete numeric
+four-pillar profile has no OVI-Gate.
+
+
+For any proposed level, identify source support for every component required by that level's
+published criterion. Assess the criterion as written rather
+than silently requiring every lower-level description as an additional prerequisite. Do not
+infer expert behavioural or clinical ground truth from authenticity alone. Do not infer a
+documented deployment cost from familiar hardware, a component price or low power use alone.
+Documented cost and LMIC-related requirements remain separate where the criterion requires both.
+
+Use the privacy-mitigation examples actually included in the published P4 criterion, including
+consent procedures. Do not restrict privacy mitigation to technical sensing or processing
+measures. Distinguish documented consent procedures from an ethics-approval statement alone.
+Do not infer user acceptance, a data-handling policy, certification or liability arrangements
+from consent or ethics approval. Apply the exact criterion and its alternatives; report only
+evidence supported by the source.
+
+Response format. Return exactly four cells, one for each of P1, P2, P3 and P4. Never repeat a pillar
+and never add placeholder or duplicate cells.

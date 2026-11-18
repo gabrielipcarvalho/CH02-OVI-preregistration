@@ -50,3 +50,24 @@ The zip contains:
 - the search, screening, conversion and figure-description code.
 
 No paper text, figure image, figure description or screening table is included.
+
+## v3.0: replication and operator-rule ablation
+
+**Release `v3.0` time-stamps the plan for a pre-registered replication of the v2.0 comparison (rubric v1.2
+revision 3 against the published v1.0) on the same 57 papers, run from the start.** A third, exploratory arm
+applies v1.0 with a procedure that omits two sentences: the one on semicolon-separated requirements and the
+one on an explicit OR. The three arms are interleaved. The release was published before the freeze and
+before the first rated request.
+
+The v3.0 files are in the `v3.0/` folder, which has its own README and `SHA256SUMS.txt`. They are also listed
+under their own heading in the root `SHA256SUMS.txt`, below the v2.0 entries.
+
+| File | Content |
+|---|---|
+| `v3.0/PREREGISTRATION_REPLICATION.md` | The questions, the three arms, the measures, the readings, the equivalence bound, the stopping rules and the cost condition |
+| `v3.0/REPORTING_RULES_REPLICATION.md` | The sentences that report each possible outcome, fixed before the run |
+| `v3.0/HANDBOOK_EVAL_ORIGINAL_NOCONJ.txt` | The ablation arm's procedure |
+| `v3.0/CH02_prereg_v3_81895c8.zip` | The exact files from the research repository at commit `81895c8e15218d62a7e73e1c9b526356ef8ea429` |
+| `v3.0/CODE_HASHES.json` | SHA-256 of the runner and analysis files |
+
+No paper text, figure image, quotation or provider data is included.
