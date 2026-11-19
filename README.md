@@ -71,3 +71,16 @@ under their own heading in the root `SHA256SUMS.txt`, below the v2.0 entries.
 | `v3.0/CODE_HASHES.json` | SHA-256 of the runner and analysis files |
 
 No paper text, figure image, quotation or provider data is included.
+
+## v3.1: amendment to v3.0 (which result leads)
+
+**Release `v3.1` amends v3.0 before any result of the replication was computed.** It makes the replication
+the article's primary result on transfer and reports the original test (v2.0), whose run stopped and was
+resumed, as the earlier, procedurally compromised test, whatever the replication shows. It changes the role
+and order of the reporting sentences only: the arms, measures, readings and stopping rules of v3.0 are
+unchanged.
+
+| File | Content |
+|---|---|
+| `v3.1/AMENDMENT_V3_1.md` | The amendment: the rule, the reporting changes for every outcome, and what does not change |
+| `v3.1/SHA256SUMS.txt` | SHA-256 of the amendment |

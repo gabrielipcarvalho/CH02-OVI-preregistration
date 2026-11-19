@@ -18,3 +18,8 @@ de7f26a598633a7846d4fce8d6b7c91dd884ea0dd2f365752fdaee4d4a740e13  v3.0/PREREGIST
 69b0bef06fda7c22efdf7ae156c4511c297076fb49509790f8a0e890c477fa8e  v3.0/SOURCE_COMMIT.txt
 e4b64babe78316593abe7c58f1e3549e0b5b15fd6c5f1678172fe9a635283f96  v3.0/SHA256SUMS.txt
 Git commit: 81895c8e15218d62a7e73e1c9b526356ef8ea429 (github.com/gabrielipcarvalho/CH2-Framework-Validation, private)
+
+v3.1 (amendment to v3.0; files in v3.1/):
+242e610bf02026851188aa893038f11da70f45204ebf2371fa65f0ddad80c306  v3.1/AMENDMENT_V3_1.md
+af60f07016f4b00580ebacf0161bddd8230ecd2e8868fb48c55938307e2a6d60  v3.1/SHA256SUMS.txt
+Git commit: 8a9431d74a4c672250b55fad8c487f2426997ab4 (github.com/gabrielipcarvalho/CH2-Framework-Validation, private)
