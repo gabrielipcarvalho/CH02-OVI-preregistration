@@ -35,6 +35,10 @@ release was published before the freeze and before the first rated request.
 **It was published late.** Stage 1 was meant to be public before the search, and it was not. The
 amendment dates this and every other deviation.
 
+**Correction, 25 November 2026:** [`CORRECTION_v2.0_2026-11-25.md`](CORRECTION_v2.0_2026-11-25.md) corrects
+the screening disclosure, records the stopped and resumed run, and notes that the replication (v3.0, amended
+by v3.1) is now the primary result on transfer.
+
 | File | Content |
 |---|---|
 | `PREREGISTRATION_POSTSLR.md` | Stage 1: the question, the two arms, the design, the measures and the reading |
